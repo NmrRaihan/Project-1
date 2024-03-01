@@ -1,0 +1,37 @@
+body{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 10px;
+    font-style: normal;
+    font-variation-settings:"wdth" 100;
+  }
+  .banner-container{
+    background-image: url(/image/backgrount-1430x740.jpg);
+    
+  }
+  
+  .banner-coloum{
+    opacity: 70%;
+    background-color: rgb(9, 91, 123);
+  }
+  
+  .navbar-container{
+    background-color: rgb(9, 91, 123);
+  }
+  
+  .about-container{
+    background-color: rgb(69, 136, 162);
+  }
+  
+  .gallery-container{
+    background-color: skyblue;
+  }
+  
+  .col-md-3{
+    margin: auto;
+  }
+  
+  
+   
+  
+  
